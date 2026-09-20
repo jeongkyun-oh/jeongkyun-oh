@@ -13,9 +13,11 @@ Core protocol contributor to **Klaytn/Kaia**, the public L1 behind the Kakao and
 
 | | |
 |---|---|
-| [**156 merged PRs** → `klaytn/klaytn`](https://github.com/klaytn/klaytn/pulls?q=is%3Apr+author%3Ajeongkyun-oh+is%3Amerged) | the L1 node client, 2019–2023 |
-| [**Merged** → `OffchainLabs/nitro`](https://github.com/OffchainLabs/nitro/pull/4431) | sequencer lock handling |
-| [204 PRs across the `klaytn` org](https://github.com/search?q=author%3Ajeongkyun-oh+org%3Aklaytn+type%3Apr&type=pullrequests) | node, docs, tooling |
+| [`klaytn/klaytn` **#1152**](https://github.com/klaytn/klaytn/pull/1152) | ported Ethereum's state snapshot subsystem to the L1 — **+8,351 lines, 21 files** |
+| [`klaytn/klaytn` **#1473**](https://github.com/klaytn/klaytn/pull/1473) | built snap sync on top of it — **+7,707 lines, 52 files** |
+| [`klaytn/klaytn` **#578**](https://github.com/klaytn/klaytn/pull/578) | first commit of `chaindatafetcher`, then owned it through ~40 follow-ups |
+| [`OffchainLabs/nitro` **#4431**](https://github.com/OffchainLabs/nitro/pull/4431) | sequencer lock handling |
+| [156 merged PRs, 2019–2023](https://github.com/klaytn/klaytn/pulls?q=is%3Apr+author%3Ajeongkyun-oh+is%3Amerged) | sustained core contribution to the node client |
 
 ---
 
